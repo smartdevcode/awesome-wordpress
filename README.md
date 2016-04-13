@@ -38,7 +38,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [_S](https://github.com/automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
 * [Bones](http://themble.com/bones/) - An HTML5, Mobile-First starter theme for rapid WordPress development.
 * [Sage](https://roots.io/sage/) - Sage is a WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap, that will help you make better themes.
-* [WordPlate](https://github.com/wordplate/wordplate) - A WordPress boilerplate. This project is trying to simplify the way we're setting up a new WordPress project. Don't repeat yourself.
+* [WordPlate](https://wordplate.github.io/) - WordPlate tries to simplify the fuzziness around WordPress development.
 * [Sprig](http://sprigwp.com/) - Build WordPress themes quickly with Twig
 * [WP MVC](http://wpmvc.org/) - WP MVC is an MVC framework that makes WordPress development faster, easier, and more elegant. It is a full-fledged framework with conventions that are similar to those of Ruby on Rails and CakePHP
 * [CherryFramework](https://github.com/CherryFramework/CherryFramework) - Fully responsive design, easy install, steady updates, great number of shortcodes and widgets, integration of Bootstrap functions. All brought to you by Cherry Framework for straightforward experience in website design
@@ -110,8 +110,7 @@ The foundation of the plugin is its extensive role and capability management sys
 *Antispam, prevent brute force, ecc*
 
 * [GoodBye Captcha](https://wordpress.org/plugins/goodbye-captcha/) - An extremely powerful anti-spam plugin that blocks Spam-bots without annoying captcha images. 
-* [Lockdown WP Admin](https://wordpress.org/plugins/lockdown-wp-admin/) - Lockdown WP Admin conceals the administration and login screen from intruders. It can hide WordPress Admin (/wp-admin/) and and login (/wp-login.php)
-* [MainWP](https://mainwp.com/) - Self-hosted open source manager for maintaining your WordPress sites from one location.
+* [Lockdown WP Admin](https://wordpress.org/plugins/lockdown-wp-admin/) - Lockdown WP Admin conceals the administration and login screen from intruders. It can hide WordPress Admin (/wp-admin/) and and login (/wp-login.php) * [MainWP](https://mainwp.com/) - Self-hosted open source manager for maintaining your WordPress sites from one location.
 * [Captcha on Login](https://wordpress.org/plugins/captcha-on-login) - Protect your blog from login brute force attacks adding a captcha on login page of your site 
 * [Stealth Login Page](https://www.wordpress.org/plugins/stealth-login-page/) - Protect your dashboard without editing the .htaccess file -- the FIRST one that completely blocks remote bot login requests. 
 * [Antispam Bee](https://wordpress.org/plugins/antispam-bee/) - Say Goodbye to comment spam on your WorddPress blog or website. Antispam Bee blocks spam comments and trackbacks effectively and without captchas. It is free of charge, ad-free and compliant with European data privacy standards.
@@ -123,7 +122,7 @@ The foundation of the plugin is its extensive role and capability management sys
 * [Caldera Forms](https://it.wordpress.org/plugins/caldera-forms/) - A diffrent kind of WordPress form builder. With an intuitive drag and drop interface -– based on a responsive grid -- and a wide range of add-ons, it’s never been easier to create forms for your WordPress site that look great on any device, thanks to Caldera Forms. 
 * [Ninja Forms](https://it.wordpress.org/plugins/ninja-forms/) - Ninja Forms is the easiest way to build any form you need for your WordPress website. No longer mess with code or worry about made-up limitations. Create the form you want, when you want with a simple drag and drop interface provided by the very powerful Ninja Forms framework.
 
-#### Move and backup
+#### Move e backup
 *If you need to move your installation*
 
 * [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - The plugin allows you to export your database, media files, plugins, and themes. You can apply unlimited find/replace operations on your database and the plugin will also fix any serialization problems that occur during find/replace operations.
@@ -151,7 +150,7 @@ The foundation of the plugin is its extensive role and capability management sys
 
 ## Websites
 
-* [Stackexchange](http://wordpress.stackexchange.com/) - WordPress Development Stack Exchange is a question and answer site for WordPress developers and administrators. It's 100% free, no registration required.
+* [Stackexchang](http://wordpress.stackexchange.com/) - WordPress Development Stack Exchange is a question and answer site for WordPress developers and administrators. It's 100% free, no registration required.
 * [Tom McFarlin](https://tommcfarlin.com/about/) - A Perspective on Professional WordPress Development
 * [Mark on WordPress](https://markjaquith.wordpress.com/) - WordPress puts food on my table.
 * [Otto on WordPress](http://ottopress.com/) - You have to use an Ottopress to get fresh squeezed Otto
