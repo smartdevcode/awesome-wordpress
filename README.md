@@ -17,6 +17,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 		- [Security and Management] (#security-and-management)
 		- [Forms and modules] (#forms-and-modules)
 		- [Move and Backup] (#move-and-backup)
+		- [Marketing] (#marketing)
 	- [Commandline] (#commandline)
 	- [Resources](#resources)
 		- [Classes](#classes)
@@ -47,7 +48,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Kirki](http://kirki.org/) - Kirki is not a framework. It's a Toolkit allowing WordPress developers to use the Customizer and take advantage of its advanced features and flexibility by abstracting the code and making it easier for everyone to create beautiful and meaningful user experiences.
 * [HTML5 Blank](http://html5blank.com/) - The HTML5 WordPress boilerplate theme.
 * [Odin WP](http://wpod.in/) - Base-theme developed by WordPress Brasil Group, to help on agile development of themes for WordPress.
-	
+* [Landing Pages](https://wordpress.org/support/plugin/landing-pages/) - Framework for building single page presentations with split testing capabilities.	
 ## Plugins
 
 ### Featured Plugins
@@ -79,8 +80,7 @@ The foundation of the plugin is its extensive role and capability management sys
 * [Rewrite Rules Inspector](https://wordpress.org/plugins/rewrite-rules-inspector/) - A straightforward WordPress admin tool for inspecting your rewrite rules. View a listing of all your rewrite rules, see which rewrite rules match a given URL (and the priorites they match in), or filter by different sources of rewrite rules. Perform a soft flush of your rewrite rules to regenerate them.
 * [CMB2](https://wordpress.org/plugins/cmb2/) - CMB2 is a metabox, custom fields, and forms library for WordPress that will blow your mind. 
 * [Ship](http://ship.getherbert.com/) - Tag a release on GitHub and have it automatically shipped to the official WordPress.org plugin SVN
-* [Simply Show Hooks](https://wordpress.org/plugins/simply-show-hooks/) - Simply Show Hooks helps theme and plugin developers to quickly see where all the action and filter hooks are on any WordPress page.
-* [Timber](https://github.com/timber/timber) - Add [Twig](http://twig.sensiolabs.org/doc/templates.html) templating capabilities to your theme and keep your template code separate from your PHP.
+* [Simply Show Hooks](https://wordpress.org/plugins/simply-show-hooks/) - Simply Show Hooks helps theme and plugin developers to quickly see where all the action and filter hooks are on any WordPress page. 
 	
 #### Installer and Generators
 
@@ -151,6 +151,10 @@ The foundation of the plugin is its extensive role and capability management sys
 #### Knowhow
 * [10up Engineering Best Practices](http://10up.github.io/Engineering-Best-Practices/) - As a company, we strive to provide websites and components that yield a top-notch user experience. In order to improve efficiency, we need to standardize what we use and how we use it. Standardizing our tools, frameworks, libraries, style, version control, and even languages will allow us to understand better the inner workings of someone else’s project and produce better solutions ourselves.
 
+#### Marketing
+* [Leads] (https://wordpress.org/support/plugin/leads/) - Provides in-depth visitor tracking and list collection + segmentation tools.
+* [Calls to Action] (https://wordpress.org/support/plugin/cta/) - Provides template powered ad placement system for calls to action, sponsored adverts, and data collection efforts. 
+
 ## Websites
 
 * [Stackexchange](http://wordpress.stackexchange.com/) - WordPress Development Stack Exchange is a question and answer site for WordPress developers and administrators. It's 100% free, no registration required.
@@ -160,6 +164,7 @@ The foundation of the plugin is its extensive role and capability management sys
 * [Nacin](http://nacin.com/) - WordPress Lead Developer
 * [Konstantin Kovshenin](http://kovshenin.com/) - WordPress, Automattic and Open Source
 * [Automattic](http://automattic.com/) - We are the people behind WordPress.com, which serves more than 15.8 billion pages a month, as well as a host of other popular services, such as Akismet, Jetpack, and VaultPress.  We are strong believers in Open Source, and the vast majority of our work is available under licenses like the GPL.
+* [WPChat](http://www.wpchat.com) - Popular Forum for WordPress discussion.
 
 #### Resources List
 
