@@ -118,6 +118,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [WP Tiles](https://wordpress.org/plugins/wp-tiles/) - Add beautiful, fully customizable post tiles or tiled galleries anywhere on your WordPress site easily with WP Tiles. 
 * [Wanna Isotope](https://wordpress.org/plugins/wanna-isotope/) - A plugin to easily build Isotope/Masonry layouts with any content (posts, pages or custom post types). Responsive grids, filterable content.
 * [Polaroid Gallery](https://wordpress.org/plugins/polaroid-gallery/) - Polaroid Gallery is a CSS3 & jQuery Image Gallery plugin for WordPress Media Library. It is used to overlay images as polaroid pictures on the current page or post and uses WordPress Media Library. Using Polaroid Gallery you add unique view for your blog posts. Polaroid Gallery adds feeling of old good times.
+* [Fly Dynamic Image Resizer](https://wordpress.org/plugins/fly-dynamic-image-resizer/) - Reduce disk space and upload time by having your images generated in custom sizes dynamically, on-the-fly.
 
 #### Performance
 
@@ -142,7 +143,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Stream](https://wordpress.org/plugins/stream/) - Stream is the easiest and safest way to track content changes happening to your WordPress site and then view them in beautifully organized detail. 
 * [Simple Login Log](https://wordpress.org/plugins/simple-login-log/) - This plugin keeps a log of WordPress user logins. Offers user and date filtering, and export features.
 * [iThemes Security](https://wordpress.org/plugins/better-wp-security/) - Take the guesswork out of WordPress security. iThemes Security offers 30+ ways to lock down WordPress in an easy-to-use WordPress security plugin.
-* [Sucuri Security – Auditing, Malware Scanner and Security Hardening](https://wordpress.org/plugins/sucuri-scanner/) - It combines features:Remote Malware Scanning,File Integrity Monitoring, Security Activity Auditing, Blacklist Monitoring etc..
 * [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - Easy Updates Manager is a light yet powerful plugin which enables you to manage all types of updates on your single site install or in WordPress Multisite. With loads of settings making endless possibilities for configuration, Easy Updates Manager is an obvious choice for anyone wanting to take control of their websites updates.
 
 
