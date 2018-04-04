@@ -121,7 +121,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Wanna Isotope](https://wordpress.org/plugins/wanna-isotope/) - A plugin to easily build Isotope/Masonry layouts with any content (posts, pages or custom post types). Responsive grids, filterable content.
 * [Polaroid Gallery](https://wordpress.org/plugins/polaroid-gallery/) - Polaroid Gallery is a CSS3 & jQuery Image Gallery plugin for WordPress Media Library. It is used to overlay images as polaroid pictures on the current page or post and uses WordPress Media Library. Using Polaroid Gallery you add unique view for your blog posts. Polaroid Gallery adds feeling of old good times.
 * [Fly Dynamic Image Resizer](https://wordpress.org/plugins/fly-dynamic-image-resizer/) - Reduce disk space and upload time by having your images generated in custom sizes dynamically, on-the-fly.
-* [Sirv Image CDN](https://wordpress.org/plugins/sirv/) - Optimize and resize images on-the-fly with Sirv's Image CDN. Manipulate images by simply changing the URL. 
 
 #### Performance
 
@@ -219,6 +218,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Toolbox of the Smart WordPress Developer](http://code.tutsplus.com/tutorials/toolbox-of-the-smart-wordpress-developer-series-introduction--cms-23663) - Is the core of WordPress enough for you? No, probably not. Almost all the time, we install WordPress plugins and themes to help build our websites. And that's all right, because WordPress isn't meant to be a one-size-fits-all solution. We do need extra functionality and design elements, and we meet our needs with plugins and themes... and more.
 * [Awesome WordPress Developer Tips](https://github.com/Mte90/awesome-wordpress-developer-tips) - Curated list that contain very awesome and ready code, snippets or examples without libraries or external packages made it for developers.
 * [Powered By WordPress](https://github.com/minthemiddle/powered-by-wordpress) - Curated list of TOP 1M Alexa ranking websites using WordPress, sorted by category and ranking.
+* [Best WordPress Hosting Providers Compared](https://thishosting.rocks/best-wordpress-hosting/) - Detailed article/comparison of the best WordPress hosting providers.
 
 
 ## Books
