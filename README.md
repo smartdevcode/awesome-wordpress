@@ -6,6 +6,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 - [Awesome WordPress](#awesome-wordpress)
 	- [Core](#core)
 	- [Themes and Framework](#themes-and-framework)
+	- [Gutenberg](#gutenberg)
 	- [Plugins](#plugins)
 		- [Featured Plugins](#featured-plugins)
 		- [SEO](#seo)
@@ -54,6 +55,16 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Odin WP](http://wpod.in/) - Base-theme developed by WordPress Brasil Group, to help on agile development of themes for WordPress.
 * [Landing Pages](https://wordpress.org/support/plugin/landing-pages/) - Framework for building single page presentations with split testing capabilities.
 * [Titan Framework](https://github.com/gambitph/Titan-Framework) - The easiest to use WordPress options framework. Titan Framework allows theme and plugin developers to create admin pages, options, meta boxes, and theme customizer options with just a few simple lines of code.
+
+## Gutenberg
+* [Create Guten Block](https://github.com/ahmadawais/create-guten-block) - A zero configuration toolkit for building Gutenberg block plugins.
+* [Gutenberg Custom Fields](https://github.com/youknowriad/gcf) - Plugin to create Custom Fields in Gutenberg.
+* [Gutenberg Examples](https://github.com/WordPress/gutenberg-examples) - Official WordPress examples of blocks. 
+* [Gutenberg Handbook](https://wordpress.org/gutenberg/handbook/) - The official overview of Gutenberg, the new editor for WordPress. 
+* [Gutenberg Migration Guide](https://github.com/danielbachhuber/gutenberg-migration-guide) - A guide for WP developers to migrate their themes and plugins to Gutenberg by showing the Gutenberg equivalents. 
+
+* [Gutenblock](https://github.com/crossfield/gutenblock) - An alternative toolkit for creating block plugins. 
+* 
 
 ## Plugins
 
@@ -121,6 +132,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Wanna Isotope](https://wordpress.org/plugins/wanna-isotope/) - A plugin to easily build Isotope/Masonry layouts with any content (posts, pages or custom post types). Responsive grids, filterable content.
 * [Polaroid Gallery](https://wordpress.org/plugins/polaroid-gallery/) - Polaroid Gallery is a CSS3 & jQuery Image Gallery plugin for WordPress Media Library. It is used to overlay images as polaroid pictures on the current page or post and uses WordPress Media Library. Using Polaroid Gallery you add unique view for your blog posts. Polaroid Gallery adds feeling of old good times.
 * [Fly Dynamic Image Resizer](https://wordpress.org/plugins/fly-dynamic-image-resizer/) - Reduce disk space and upload time by having your images generated in custom sizes dynamically, on-the-fly.
+* [Sirv Image CDN](https://wordpress.org/plugins/sirv/) - Optimize and resize images on-the-fly with Sirv's Image CDN. Manipulate images by simply changing the URL. 
 
 #### Performance
 
