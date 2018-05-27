@@ -6,7 +6,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 - [Awesome WordPress](#awesome-wordpress)
 	- [Core](#core)
 	- [Themes and Framework](#themes-and-framework)
-	- [Gutenberg](#gutenberg)
 	- [Plugins](#plugins)
 		- [Featured Plugins](#featured-plugins)
 		- [SEO](#seo)
@@ -55,16 +54,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Odin WP](http://wpod.in/) - Base-theme developed by WordPress Brasil Group, to help on agile development of themes for WordPress.
 * [Landing Pages](https://wordpress.org/support/plugin/landing-pages/) - Framework for building single page presentations with split testing capabilities.
 * [Titan Framework](https://github.com/gambitph/Titan-Framework) - The easiest to use WordPress options framework. Titan Framework allows theme and plugin developers to create admin pages, options, meta boxes, and theme customizer options with just a few simple lines of code.
-
-## Gutenberg
-* [Create Guten Block](https://github.com/ahmadawais/create-guten-block) - A zero configuration toolkit for building Gutenberg block plugins.
-* [Gutenberg Custom Fields](https://github.com/youknowriad/gcf) - Plugin to create Custom Fields in Gutenberg.
-* [Gutenberg Examples](https://github.com/WordPress/gutenberg-examples) - Official WordPress examples of blocks. 
-* [Gutenberg Handbook](https://wordpress.org/gutenberg/handbook/) - The official overview of Gutenberg, the new editor for WordPress. 
-* [Gutenberg Migration Guide](https://github.com/danielbachhuber/gutenberg-migration-guide) - A guide for WP developers to migrate their themes and plugins to Gutenberg by showing the Gutenberg equivalents. 
-
-* [Gutenblock](https://github.com/crossfield/gutenblock) - An alternative toolkit for creating block plugins. 
-* 
 
 ## Plugins
 
@@ -226,6 +215,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Resources List
 
 * [Awesome WordPress by dropndot](https://github.com/dropndot/awesome-wordpress) - A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities.
+* [Programming Community Curated Resources For Learning WordPress](https://hackr.io/tutorials/learn-wordpress)
 * [wpmudev.org](http://premium.wpmudev.org/blog/35-resources-for-kick-ass-wordpress-developers/) -35+ Resources to Become a Kick Ass WordPress Developer
 * [Toolbox of the Smart WordPress Developer](http://code.tutsplus.com/tutorials/toolbox-of-the-smart-wordpress-developer-series-introduction--cms-23663) - Is the core of WordPress enough for you? No, probably not. Almost all the time, we install WordPress plugins and themes to help build our websites. And that's all right, because WordPress isn't meant to be a one-size-fits-all solution. We do need extra functionality and design elements, and we meet our needs with plugins and themes... and more.
 * [Awesome WordPress Developer Tips](https://github.com/Mte90/awesome-wordpress-developer-tips) - Curated list that contain very awesome and ready code, snippets or examples without libraries or external packages made it for developers.
