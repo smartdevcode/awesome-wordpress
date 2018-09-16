@@ -49,7 +49,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Gantry Framework](https://github.com/gantry/gantry5) - Next Generation Theme Framework. Gantry was born when the RocketTheme development team wanted to consolidate our extensive set of custom Joomla and WordPress template functionality into a simple, easy to use framework
 * [Runway Framework](https://github.com/parallelus/Runway-Framework) - A better way to create WordPress themes. Runway was built for creating WordPress themes and it encompasses both of the classic meanings of "theme framework" as defined by the WordPress developers. But Runway is much more than just a theme framework, Runway is a Theme Development Environment.
 * [Kirki](http://kirki.org/) - Kirki is not a framework. It's a Toolkit allowing WordPress developers to use the Customizer and take advantage of its advanced features and flexibility by abstracting the code and making it easier for everyone to create beautiful and meaningful user experiences.
-* [Wp Developer Theme] (https://github.com/heitorspedroso/wp-developer-theme) - This Theme was developed to be a fast tool in the developer's hands, through it the developer can already create the theme without worrying about the file structure that is already ready and with pre-defined loops without influence in html / css
+* [Wp Developer Theme](https://github.com/heitorspedroso/wp-developer-theme) - This Theme was developed to be a fast tool in the developer's hands, through it the developer can already create the theme without worrying about the file structure that is already ready and with pre-defined loops without influence in html / css
 * [HTML5 Blank](http://html5blank.com/) - The HTML5 WordPress boilerplate theme.
 * [Odin WP](http://wpod.in/) - Base-theme developed by WordPress Brasil Group, to help on agile development of themes for WordPress.
 * [Landing Pages](https://wordpress.org/support/plugin/landing-pages/) - Framework for building single page presentations with split testing capabilities.
@@ -215,7 +215,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Resources List
 
 * [Awesome WordPress by dropndot](https://github.com/dropndot/awesome-wordpress) - A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities.
-* [Programming Community Curated Resources For Learning WordPress](https://hackr.io/tutorials/learn-wordpress)
 * [wpmudev.org](http://premium.wpmudev.org/blog/35-resources-for-kick-ass-wordpress-developers/) -35+ Resources to Become a Kick Ass WordPress Developer
 * [Toolbox of the Smart WordPress Developer](http://code.tutsplus.com/tutorials/toolbox-of-the-smart-wordpress-developer-series-introduction--cms-23663) - Is the core of WordPress enough for you? No, probably not. Almost all the time, we install WordPress plugins and themes to help build our websites. And that's all right, because WordPress isn't meant to be a one-size-fits-all solution. We do need extra functionality and design elements, and we meet our needs with plugins and themes... and more.
 * [Awesome WordPress Developer Tips](https://github.com/Mte90/awesome-wordpress-developer-tips) - Curated list that contain very awesome and ready code, snippets or examples without libraries or external packages made it for developers.
