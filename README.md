@@ -49,7 +49,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Gantry Framework](https://github.com/gantry/gantry5) - Next Generation Theme Framework. Gantry was born when the RocketTheme development team wanted to consolidate our extensive set of custom Joomla and WordPress template functionality into a simple, easy to use framework
 * [Runway Framework](https://github.com/parallelus/Runway-Framework) - A better way to create WordPress themes. Runway was built for creating WordPress themes and it encompasses both of the classic meanings of "theme framework" as defined by the WordPress developers. But Runway is much more than just a theme framework, Runway is a Theme Development Environment.
 * [Kirki](http://kirki.org/) - Kirki is not a framework. It's a Toolkit allowing WordPress developers to use the Customizer and take advantage of its advanced features and flexibility by abstracting the code and making it easier for everyone to create beautiful and meaningful user experiences.
-* [Wp Developer Theme](https://github.com/heitorspedroso/wp-developer-theme) - This Theme was developed to be a fast tool in the developer's hands, through it the developer can already create the theme without worrying about the file structure that is already ready and with pre-defined loops without influence in html / css
+* [Wp Developer Theme] (https://github.com/heitorspedroso/wp-developer-theme) - This Theme was developed to be a fast tool in the developer's hands, through it the developer can already create the theme without worrying about the file structure that is already ready and with pre-defined loops without influence in html / css
 * [HTML5 Blank](http://html5blank.com/) - The HTML5 WordPress boilerplate theme.
 * [Odin WP](http://wpod.in/) - Base-theme developed by WordPress Brasil Group, to help on agile development of themes for WordPress.
 * [Landing Pages](https://wordpress.org/support/plugin/landing-pages/) - Framework for building single page presentations with split testing capabilities.
@@ -149,7 +149,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [iThemes Security](https://wordpress.org/plugins/better-wp-security/) - Take the guesswork out of WordPress security. iThemes Security offers 30+ ways to lock down WordPress in an easy-to-use WordPress security plugin.
 * [Sucuri Security – Auditing, Malware Scanner and Security Hardening](https://wordpress.org/plugins/sucuri-scanner/) - It combines features:Remote Malware Scanning,File Integrity Monitoring, Security Activity Auditing, Blacklist Monitoring etc..
 * [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - Easy Updates Manager is a light yet powerful plugin which enables you to manage all types of updates on your single site install or in WordPress Multisite. With loads of settings making endless possibilities for configuration, Easy Updates Manager is an obvious choice for anyone wanting to take control of their websites updates.
-
+* [Wordfence Security – Firewall & Malware Scan](https://wordpress.org/plugins/wordfence/) - Wordfence includes an endpoint firewall and malware scanner that were built from the ground up to protect WordPress. Web Application Firewall identifies and blocks malicious traffic. Built and maintained by a large team focused 100% on WordPress security. Malware scanner checks core files, themes and plugins for malware, bad URLs, backdoors, SEO spam, malicious redirects and code injections.
 
 #### Forms and modules
 
