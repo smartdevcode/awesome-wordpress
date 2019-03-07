@@ -54,7 +54,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Odin WP](http://wpod.in/) - Base-theme developed by WordPress Brasil Group, to help on agile development of themes for WordPress.
 * [Landing Pages](https://wordpress.org/support/plugin/landing-pages/) - Framework for building single page presentations with split testing capabilities.
 * [Titan Framework](https://github.com/gambitph/Titan-Framework) - The easiest to use WordPress options framework. Titan Framework allows theme and plugin developers to create admin pages, options, meta boxes, and theme customizer options with just a few simple lines of code.
-* [create-wp-react-app](https://github.com/matzeeable/wp-reactjs-starter) - WordPress CLI to generate your next modern plugin with the power of REST API, webpack, babel, MobX and MobX State Tree
 
 ## Plugins
 
@@ -150,6 +149,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [iThemes Security](https://wordpress.org/plugins/better-wp-security/) - Take the guesswork out of WordPress security. iThemes Security offers 30+ ways to lock down WordPress in an easy-to-use WordPress security plugin.
 * [Sucuri Security – Auditing, Malware Scanner and Security Hardening](https://wordpress.org/plugins/sucuri-scanner/) - It combines features:Remote Malware Scanning,File Integrity Monitoring, Security Activity Auditing, Blacklist Monitoring etc..
 * [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - Easy Updates Manager is a light yet powerful plugin which enables you to manage all types of updates on your single site install or in WordPress Multisite. With loads of settings making endless possibilities for configuration, Easy Updates Manager is an obvious choice for anyone wanting to take control of their websites updates.
+* [CloudFlare WAF and CDN](https://www.cloudflare.com/integrations/wordpress/) = CloudFlare offers managed WAF (Web Application Firewall) rules for WordPress, CDN, and DDOS mitigation for WordPress sites
 
 
 #### Forms and modules
